@@ -2,7 +2,7 @@
   "name": "to-do-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sharanpatil106.github.io/To-D0-Application",
+  "homepage": "https://sharanpatil106.github.io/To-Do-Application",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
